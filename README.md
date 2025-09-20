@@ -1,6 +1,7 @@
 # Credit Risk Assessment Model
 
 Background:
+
 Financial institutions face challenges in accurately assessing borrower creditworthiness. Inaccurate loan approval decisions can lead to revenue loss from defaults or missed opportunities with creditworthy applicants. This project aims to improve loan approval systems by predicting whether an application should be approved based on borrower data. 
 In addition, the model highlights features that play the most significant role in a borrower’s likelihood of default, providing actionable insights for risk management.
 
